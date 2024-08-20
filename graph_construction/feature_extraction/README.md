@@ -17,7 +17,7 @@ Before running the flow, make sure that the HLS designs are properly collected a
 
 - Go to the overall_run folder, try with a simple demo: 
       
-      python feature_extract.py atax --app_dir ../../dataset/benchmark/target
+      python feature_extract.py atax --app_dir ../../../dataset/benchmark/target
 
-   - Check the result in the following folder: `../../dataset/benchmark/target/atax/generated`
+   - Check the result in the following folder: `../../../dataset/benchmark/target/atax/generated`
          

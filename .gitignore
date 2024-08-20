@@ -1,0 +1,4 @@
+dataset/benchmark/target/atax/generated
+graph_construction/feature_extraction/act_trace/build
+graph_construction/feature_extraction/ir_revise/build
+graph_construction/feature_extraction/preprocess/__pycache__
